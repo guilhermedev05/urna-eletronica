@@ -1,4 +1,4 @@
-# 🗳️ [Urna Eletrônica](https://github.com/guilhermedev05/urna-eletronica)
+# 🗳️ [Urna Eletrônica](https://guilhermedev05.github.io/urna-eletronica/)
 
 Bem-vindo à simulação de uma Urna Eletrônica, um projeto que replica a experiência de votação digital usada em eleições. Este projeto permite ao usuário votar para diferentes cargos, como vereador e prefeito, e também lida com votos em branco e nulos.
 
