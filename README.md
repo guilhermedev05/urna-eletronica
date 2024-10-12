@@ -1,7 +1,3 @@
-Aqui está o README para o seu projeto da **Urna Eletrônica**, baseado no exemplo que você forneceu:
-
----
-
 # 🗳️ [Urna Eletrônica](https://github.com/guilhermedev05/urna-eletronica)
 
 Bem-vindo à simulação de uma Urna Eletrônica, um projeto que replica a experiência de votação digital usada em eleições. Este projeto permite ao usuário votar para diferentes cargos, como vereador e prefeito, e também lida com votos em branco e nulos.
